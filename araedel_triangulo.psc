@@ -9,6 +9,6 @@ Algoritmo sin_titulo
 	area = (base * altura) /2 ;
 	
 	escribir "el area es" 
-	escribir "esta es una prueba" 
+	
 	
 FinAlgoritmo
