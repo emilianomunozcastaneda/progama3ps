@@ -10,4 +10,4 @@ Algoritmo sin_titulo
 	
 	escribir "el area es" 
 	
-
+FinAlgoritmo
